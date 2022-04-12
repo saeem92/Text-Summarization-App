@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Summary App</string>
+    <string name="made_in_india">lorem ipsum</string>
+
+    <!-- intents -->
+    <string name="intent_angle">angle</string>
+    <string name="intent_edited_path">edited_path</string>
+    <string name="intent_cropped_path">cropped_path</string>
+    <string name="intent_source_path">source_path</string>
+    <string name="intent_format">format</string>
+    <string name="intent_document_id">document_id</string>
+    <string name="intent_frame_position">frame_position</string>
+    <string name="intent_uris">uris</string>
+
+    <!-- preferences -->
+    <string name="key_privacy_policy">preference_privacy_policy</string>
+    <string name="key_rate_us">preference_rate_us</string>
+    <string name="toast_error_message">Unexpected error: Oops something went wrong.</string>
+    <string name="intent_path">intent_path</string>
+    <string name="intent_native_mat_address">intent_native_mat_address</string>
+    <string name="key_system_theme">key_system_theme</string>
+    <string name="key_default_theme">key_default_theme</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="light_theme">Light Theme</string>
+    <string name="preference_use_system_theme">useSystemTheme</string>
+    <string name="preference_mode_night">night</string>
+    <string name="key_feedback">preference_feedback</string>
+    <string name="key_developer">key_developer</string>
+    <string name="choose_email_client">Choose Email Client</string>
+
+    <string name="share_message">Lorem Ipsum</string>
+    <string name="key_share">preference_share</string>
+    <string name="intent_frame_id">frameId</string>
+    <string name="search_any_document">Search any document</string>
+    <string name="retake">Retake</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="key_source_code_license">preference_source_code_license</string>
+
+    <string-array name="themes">
+        <item>@string/dark_theme</item>
+        <item>@string/light_theme</item>
+    </string-array>
+</resources>
