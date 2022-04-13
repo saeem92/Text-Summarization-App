@@ -20,12 +20,14 @@
     android:layout_height="match_parent">
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/ScanforImage"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_centerInParent="true"
         android:backgroundTint="@color/colorTextSecondary"
-        android:text="Scan for Image" />
+        android:text="Scan for Image"
+        android:textStyle="bold"
+        android:layout_margin="20dp"/>
 
 </RelativeLayout>
 
