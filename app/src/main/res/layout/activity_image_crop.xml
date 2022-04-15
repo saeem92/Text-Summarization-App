@@ -24,8 +24,13 @@
                 android:layout_height="50dp"
                 android:layout_gravity="center"
                 android:layout_margin="10dp"
+<<<<<<< HEAD
+                android:text="@string/crop_image" />
+
+=======
                 android:gravity="center"
                 android:text="Crop Image" />
+>>>>>>> d3390c2fca645502d84234f41fe1391f65d35819
         </LinearLayout>
 
         <ImageView

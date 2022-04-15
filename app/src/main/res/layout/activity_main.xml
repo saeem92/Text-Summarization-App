@@ -19,15 +19,53 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+<<<<<<< HEAD
+    <TextView
+        android:id="@+id/txtEnterText"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="@string/enter_text_here"
+        android:textColor="#FFFFFF"
+        android:layout_marginTop="10dp"
+        android:layout_above="@id/copyText"
+        android:textSize="22sp"/>
+
+=======
+>>>>>>> d3390c2fca645502d84234f41fe1391f65d35819
     <Button
         android:id="@+id/ScanforImage"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+<<<<<<< HEAD
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="@color/colorAccent"
+        android:text="@string/scan_for_image"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/copyText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="20dp"
+        android:layout_marginBottom="20dp"
+        android:background="@color/colorAccent"
+        android:text="@string/copy_text"
+        android:textStyle="bold"/>
+=======
         android:layout_centerInParent="true"
         android:backgroundTint="@color/colorTextSecondary"
         android:text="Scan for Image"
         android:textStyle="bold"
         android:layout_margin="20dp"/>
+>>>>>>> d3390c2fca645502d84234f41fe1391f65d35819
 
 </RelativeLayout>
 

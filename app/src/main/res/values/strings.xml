@@ -36,6 +36,13 @@
     <string name="confirm">Confirm</string>
     <string name="cancel">Cancel</string>
     <string name="key_source_code_license">preference_source_code_license</string>
+<<<<<<< HEAD
+    <string name="scan_for_image">Scan Now</string>
+    <string name="crop_image">Crop Image</string>
+    <string name="copy_text">Copy Text</string>
+    <string name="enter_text_here">Enter Text Here</string>
+=======
+>>>>>>> d3390c2fca645502d84234f41fe1391f65d35819
 
     <string-array name="themes">
         <item>@string/dark_theme</item>
